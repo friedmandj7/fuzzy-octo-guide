@@ -1,5 +1,9 @@
-.picture {
-    background-image: url(seinfeld-jerry-stiller.avif);
-    size: 100vh;
+.image-container {
+    background-image: url("seinfeld-jerry-stiller.avif");
+    position: relative
 }
 
+.button{
+    position: absolute;
+    top: 50%
+}
